@@ -1,0 +1,163 @@
+# 这个 viminfo 文件是由 Vim 7.4 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 命令行 历史记录 (从新到旧)：
+:wq
+:q
+:q!
+
+# 查找字符串 历史记录 (从新到旧)：
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+
+# 文件标记:
+'0  31  22  /etc/profile
+'1  1  0  /etc/profile
+'2  115  49  ~/.bashrc
+'3  32  0  /etc/profile
+'4  118  33  ~/.bashrc
+'5  119  0  ~/.bashrc
+'6  116  69  /etc/skel/.bashrc
+'7  101  71  /root/.bashrc
+
+# 跳转列表 (从新到旧):
+-'  31  22  /etc/profile
+-'  1  0  /etc/profile
+-'  115  49  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  32  0  /etc/profile
+-'  118  33  ~/.bashrc
+-'  119  0  ~/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  115  49  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  118  33  ~/.bashrc
+-'  119  0  ~/.bashrc
+-'  116  69  /etc/skel/.bashrc
+-'  1  0  /etc/skel/.bashrc
+-'  101  71  /root/.bashrc
+-'  1  0  /root/.bashrc
+-'  101  71  /root/.bashrc
+-'  115  49  ~/.bashrc
+
+# 文件内的标记历史记录 (从新到旧):
+
+> /etc/profile
+	"	31	22
+	^	31	23
+	.	31	22
+	+	33	0
+	+	30	2
+	+	31	33
+	+	31	22
+
+> ~/.bashrc
+	"	115	49
+	^	115	50
+	.	115	50
+	+	120	0
+	+	114	1
+	+	119	0
+	+	118	7
+	+	115	50
+
+> /etc/skel/.bashrc
+	"	116	69
+	^	116	70
+	.	117	0
+	+	117	0
+
+> /root/.bashrc
+	"	101	71
+	^	101	72
+	.	101	71
+	+	101	71
